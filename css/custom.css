@@ -79,6 +79,7 @@ letter-spacing: 1px;
     font-size: 20px;
     color: black;
     line-height:0px
+        word-wrap:break-word
 }
 .upper p a{
     color: black;
